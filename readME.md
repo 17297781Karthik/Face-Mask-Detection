@@ -1,1 +1,1 @@
-`Building a real time face mask detection system using OpenCV and Deep Learning`
+**Building a real time face mask detection system using OpenCV and Deep Learning**
